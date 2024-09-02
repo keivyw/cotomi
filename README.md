@@ -1,6 +1,7 @@
 # 生成AIコンテスト
 
 ### ファイル構成
+<pre>
 .
 ├── README.md
 └── src
@@ -10,3 +11,4 @@
         ├── MyApp.swift
         ├── PatientDetailData.swift
         └── PatientDetailView.swift
+</pre>
