@@ -4,11 +4,17 @@
 <pre>
 .
 ├── README.md
-└── src
-    └── test(モックデータ用)
-        ├── AnalysisView.swift
-        ├── ContentView.swift
-        ├── MyApp.swift
-        ├── PatientDetailData.swift
-        └── PatientDetailView.swift
+├── dev
+│   ├── AnalysisView.swift
+│   ├── ContentView.swift
+│   ├── MyApp.swift
+│   ├── PatientDetailView.swift
+│   ├── PatientDetailViewModel.swift
+│   └── PatientViewModel.swift
+└── test
+    ├── AnalysisView.swift
+    ├── ContentView.swift
+    ├── MyApp.swift
+    ├── PatientDetailData.swift
+    └── PatientDetailView.swift
 </pre>
