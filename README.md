@@ -18,3 +18,28 @@
     ├── PatientDetailData.swift
     └── PatientDetailView.swift
 </pre>
+
+
+### ファイルの説明
+
+#### 患者一覧
+- ContentView.swift レイアウト（miroの左の画面）
+- PatientViewModel.swift 患者一覧のAPI
+APIは入力（トークン、医者ID）を完全に失念していた（すみません）ので、そこを追加してくれるとありがたいです。テーブルデータのAPIの方も同様です
+
+#### テーブルデータ
+- PatientDetailView.swift レイアウト（miroの真ん中）
+- PatientDetailViewModel.swift テーブルデータのAPI
+
+#### 分析画面
+- Analysis.swift レイアウト（miroの右の画面）
+APIはテーブルデータの方（PatientDetailViewModel.swift）を流用出来そうだなあと思ったところで止まってます
+
+
+MyApp.swiftは何もいじってません
+
+
+
+
+
+
