@@ -32,8 +32,8 @@
 - PatientDetailViewModel.swift: テーブルデータのAPI
 
 #### 分析画面（miroの右の画面）
-- Analysis.swift: レイアウト
-    - 動作確認の時に使ったモックデータが残ってたはずなので適当に消してください
+- AnalysisView.swift: レイアウト
+    - 動作確認の時に使ったモックデータが残ってたはずなので適当に消してください 
 - APIはテーブルデータの方（PatientDetailViewModel.swift）を流用出来そうだなあと思ったところで止まってます
 
 
